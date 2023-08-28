@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	ptint_numbers();
+	print_numbers();
 	return (0);
 }
